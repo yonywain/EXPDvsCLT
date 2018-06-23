@@ -1,7 +1,7 @@
 # EXPDvsCLT
 Peer-graded Assignment: Statistical Inference Course Project from coursera.com
 
-Below are the project instructions: 
+Below are the project instructions:   
 **Part 1: Simulation Exercise Instructions**  
 In this project you will investigate the exponential distribution in R and compare it with the Central Limit Theorem. The exponential distribution can be simulated in R with rexp(n, lambda) where lambda is the rate parameter. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda. Set lambda = 0.2 for all of the simulations. You will investigate the distribution of averages of 40 exponentials. Note that you will need to do a thousand simulations.
 
@@ -9,7 +9,8 @@ Illustrate via simulation and associated explanatory text the properties of the 
 
 1. Show the sample mean and compare it to the theoretical mean of the distribution.  
 2. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution.  
-3. Show that the distribution is approximately normal.  
+3. Show that the distribution is approximately normal. 
+
 In point 3, focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials.  
 
 This exercise is asking you to use your knowledge of the theory given in class to relate the two distributions.
