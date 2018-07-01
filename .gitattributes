@@ -1,2 +1,2 @@
 *.html linguist-vendored
-*.rmd linguist-language=markdown
+*.rmd linguist-language=R
