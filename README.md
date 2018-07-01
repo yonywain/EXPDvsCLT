@@ -37,4 +37,4 @@ Now in the second portion of the project, we're going to analyze the ToothGrowth
 4. State your conclusions and the assumptions needed for your conclusions. 
 
 ## Link to the solution/paper
-![EXPDvsCLT](EXPDvsCLT.pdf)
+[EXPDvsCLT](EXPDvsCLT.pdf)
