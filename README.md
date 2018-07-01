@@ -1,7 +1,7 @@
 # EXPDvsCLT
 Peer-graded Assignment: Statistical Inference Course Project from coursera.com
 
-Below are the project instructions:   
+## Below are the project instructions:   
 **Part 1: Simulation Exercise Instructions**  
 In this project you will investigate the exponential distribution in R and compare it with the Central Limit Theorem. The exponential distribution can be simulated in R with rexp(n, lambda) where lambda is the rate parameter. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda. Set lambda = 0.2 for all of the simulations. You will investigate the distribution of averages of 40 exponentials. Note that you will need to do a thousand simulations.
 
@@ -36,3 +36,5 @@ Now in the second portion of the project, we're going to analyze the ToothGrowth
 3. Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose. (Only use the techniques from class, even if there's other approaches worth considering).  
 4. State your conclusions and the assumptions needed for your conclusions. 
 
+## Link to the solution/paper
+![EXPDvsCLT](EXPDvsCLT.pdf)
